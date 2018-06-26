@@ -23,13 +23,16 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
+All of the code is organized into folders.
 
 The code will look like the following:
 ```
-if (test expression)
-{
-  Statement upon condition is true
+func checkInit(t *testing.T, stub *shim.MockStub, args [][]byte) {
+ res := stub.MockInit("1", args)
+ if res.Status != shim.OK {
+ fmt.Println("Init failed", string(res.Message))
+ t.FailNow()
+ }
 }
 ```
 
