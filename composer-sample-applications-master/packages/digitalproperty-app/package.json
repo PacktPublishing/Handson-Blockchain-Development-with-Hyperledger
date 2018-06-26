@@ -1,0 +1,82 @@
+{
+  "name": "digitalproperty-app",
+  "version": "0.0.11",
+  "description": "Hyperledger Composer - Digital Property console application",
+  "bin": {
+    "digitalproperty": "cli.js"
+  },
+  "main": "cli.js",
+  "scripts": {
+    "postinstall": "composer --version",
+    "preinstall": "./rootcheck.sh ",
+    "pretest": "npm run licchk",
+    "test": "npm run bootstrapAssets && npm run listAssets && npm run submitTransaction",
+    "submitTransaction": "node cli.js landregistry submit && node cli.js landregistry list",
+    "listAssets": "node cli.js landregistry list",
+    "licchk": "license-check-and-add",
+    "bootstrapAssets": "node cli.js landregistry bootstrap",
+    "deployNetwork": "./deployNetwork.sh",
+    "updateNetwork": "./updateNetwork.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hyperledger/composer-sample-applications"
+  },
+  "keywords": [
+    "Blockchain",
+    "Solutions",
+    "Framework",
+    "getting-started",
+    "Hyplerledger Composer"
+  ],
+  "author": "Hyperledger Composer",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "composer-cli": "^0.19.0",
+    "composer-client": "^0.19.0",
+    "digitalproperty-network": "^0.2.2",
+    "jsonfile": "^2.4.0",
+    "lodash": "^4.17.4",
+    "prettyjson": "^1.2.1",
+    "sprintf-js": "^1.0.3",
+    "winston": "^2.3.0",
+    "yargs": "^6.5.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "chai-things": "^0.2.0",
+    "license-check-and-add": "~2.3.0",
+    "mocha": "^3.2.0",
+    "sinon": "^1.17.6",
+    "sinon-as-promised": "^4.0.2"
+  },
+  "pkg": {
+    "scripts": "lib/**/*.js"
+  },
+  "license-check-and-add-config": {
+    "folder": ".",
+    "license": "LICENSE.txt",
+    "exact_paths_method": "EXCLUDE",
+    "exact_paths": [
+      "node_modules"
+    ],
+    "file_type_method": "EXCLUDE",
+    "file_types": [
+      ".md",
+      ".bna",
+      ".card"
+    ],
+    "insert_license": false,
+    "license_formats": {
+      "js": {
+        "prepend": "/*",
+        "append": " */",
+        "eachLine": {
+          "prepend": " * "
+        }
+      }
+    }
+  }
+}
