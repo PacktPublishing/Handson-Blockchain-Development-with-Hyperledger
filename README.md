@@ -1,6 +1,6 @@
 # Hands-on Blockchain Development with Hyperledger
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-blockchain-hyperledger?utm_source=github&utm_medium=repository&utm_campaign=9781788994521"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10152_Newcover.png" alt="Book Name" height="256px" align="right"></a>
 
 This is the code repository for [Book Name](Packt UTM URL of the Book), published by Packt.
 
