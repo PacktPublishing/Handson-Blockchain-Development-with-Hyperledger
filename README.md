@@ -53,11 +53,7 @@ With the following software and hardware list you can run all code files present
 ### Related products <Paste books from the Other books you may enjoy section>
 * Building Blockchain Projects [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/building-blockchain-projects?utm_source=github&utm_medium=repository&utm_campaign=9781787122147) [[Amazon]](https://www.amazon.com/dp/178712214X)
 
-* 
- Preview in Mapt
-Code Files
-
-Mastering Blockchain - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-blockchain-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788839044) [[Amazon]](https://www.amazon.com/dp/1788839048)
+* Mastering Blockchain - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-blockchain-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788839044) [[Amazon]](https://www.amazon.com/dp/1788839048)
 
 ## Get to Know the Author
 **Nitin Gaur**
