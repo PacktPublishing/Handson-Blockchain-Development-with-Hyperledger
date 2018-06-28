@@ -6,7 +6,7 @@ This is the code repository for [Hands-on Blockchain with Hyperledger](https://w
 
 
 ## What is this book about?
--Blockchain and Hyperledger technologiesare hot topics today. Hyperledger Fabric and Hyperledger Composer are open source projects that help organizations create private, permissioned blockchain networks. These find application in finance, banking, supply chain, and IoT among several other sectors. This book will be an easy reference to explore and build blockchain networks using Hyperledger technologies.
+Blockchain and Hyperledger technologiesare hot topics today. Hyperledger Fabric and Hyperledger Composer are open source projects that help organizations create private, permissioned blockchain networks. These find application in finance, banking, supply chain, and IoT among several other sectors. This book will be an easy reference to explore and build blockchain networks using Hyperledger technologies.
 
 This book covers the following exciting features: 
 * Discover why blockchain is a game changer in the technology landscape
@@ -18,7 +18,7 @@ This book covers the following exciting features:
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788994523) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
--alt="https://www.packtpub.com/" border="5" /></a>
+alt="https://www.packtpub.com/" border="5" /></a>
 
 
 ## Instructions and Navigations
