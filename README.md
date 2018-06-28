@@ -58,25 +58,31 @@ With the following software and hardware list you can run all code files present
 
 ## Get to Know the Authors
 **Nitin Gaur**
+
 Nitin Gaur, as the director of IBM's Blockchain Labs, is responsible for instituting a body of knowledge and organizational understanding around blockchain technology and industry-specific applications. Tenacious and customer focused, he is known for his ability to analyze opportunities and create technologies that align with operational needs, catapult profitability, and dramatically improve customer experience. He is also an IBM Distinguished Engineer. 
 
 **Luc Desrosiers**
+
 Luc Desrosiers is an IBM-certified IT architect with 20+ years of experience. Throughout his career, he has taken on different roles: developer, consultant, and pre-sales architect. He recently moved from Canada to the UK to work in a great lab: IBM Hursley. This is where he had the opportunity to join the IBM Blockchain team. He is now working with clients across multiple industries to help them explore how blockchain technologies can enable transformative uses and solutions.
 
 
 **Venkatraman Ramakrishnar**
+
 Venkatraman Ramakrishna is an IBM researcher with 10 years of experience. Following a BTech from IIT Kharagpur and PhD from UCLA, he worked in the Bing infrastructure team in Microsoft, building reliable application deployment software. At IBM Research, he worked in mobile computing and security before joining the Blockchain team. He has developed applications for trade and regulation, and is now working on improving the performance and privacy-preserving characteristics of the Hyperledger platform.
 
 
 **Petr Novotny**
+
 Petr Novotny is a research scientist at IBM Research, with 15+ years of experience in engineering and research of software systems. He received an MSc from University College London and PhD from Imperial College London, where he was also a post-doctoral research associate. He was a visiting scientist at the U.S. Army Research Lab. At IBM, he works on innovations of blockchain technologies and leads the development of blockchain solutions and analytical tools.
 
 
 **Dr. Salman A. Baset**
+
 Dr. Salman A. Baset is the CTO of security in IBM Blockchain Solutions. He oversees the security and compliance of blockchain solutions being built by IBM in collaboration with partners such as Walmart and Maersk, and interfaces with clients on blockchain solutions and their security. He drives the implementation of the General Data Protection Regulation for blockchain-based solutions. He has also built the identity management system, used by Fortune 500 companies involved in global trade digitization, and IBM Food Trust blockchain solutions.
 
 
 **Anthony O'Dowd**
+
 Anthony O'Dowd works in IBM's Blockchain team. He is based in Europe as part of a worldwide team that helps users build solutions that benefit from blockchain tech. Anthony has a background in middle and back office systems, and has led the development of key IBM middleware in enterprise messaging and integration. He likes to work in different industries to understand how they can exploit middleware to build more efficient, integrated business systems.
 
 
