@@ -61,6 +61,7 @@ With the following software and hardware list you can run all code files present
 Nitin Gaur, as the director of IBM's Blockchain Labs, is responsible for instituting a body of knowledge and organizational understanding around blockchain technology and industry-specific applications. Tenacious and customer focused, he is known for his ability to analyze opportunities and create technologies that align with operational needs, catapult profitability, and dramatically improve customer experience. He is also an IBM Distinguished Engineer. 
 
 **Luc Desrosiers**
+
 Luc Desrosiers is an IBM-certified IT architect with 20+ years of experience. Throughout his career, he has taken on different roles: developer, consultant, and pre-sales architect. He recently moved from Canada to the UK to work in a great lab: IBM Hursley. This is where he had the opportunity to join the IBM Blockchain team. He is now working with clients across multiple industries to help them explore how blockchain technologies can enable transformative uses and solutions.
 
 
