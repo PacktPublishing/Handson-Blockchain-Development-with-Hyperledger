@@ -56,7 +56,7 @@ With the following software and hardware list you can run all code files present
 
 * Mastering Blockchain - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-blockchain-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788839044) [[Amazon]](https://www.amazon.com/dp/1788839048)
 
-## Get to Know the Author
+## Get to Know the Authors
 **Nitin Gaur**
 Nitin Gaur, as the director of IBM's Blockchain Labs, is responsible for instituting a body of knowledge and organizational understanding around blockchain technology and industry-specific applications. Tenacious and customer focused, he is known for his ability to analyze opportunities and create technologies that align with operational needs, catapult profitability, and dramatically improve customer experience. He is also an IBM Distinguished Engineer. 
 
