@@ -154,6 +154,6 @@ Two kinds of augmentation are currently supported:
   
   ## Errata
   
-In the diagram on page 74 (PDF)/98 (Book) (in Chapter 3), the directionality of arrows marked 1 and 2 should be reversed. Here is the correct image for the same:
+In the diagram on page 82 (PDF) (in Chapter 3), the directionality of arrows marked 1 and 2 should be reversed. Here is the correct image for the same:
  
  ![alt text](https://github.com/PacktPublishing/Handson-Blockchain-Development-with-Hyperledger/blob/master/B10152_03_1.png?raw=true)
