@@ -154,5 +154,5 @@ Two kinds of augmentation are currently supported:
   
   ## Errata
   
- In the diagram on page 74 (PDF)/98 (Book) (in Chapter 3), the directionality of arrows marked 1 and 2 should be reversed.
- ![alt text] (master/B10152_03_1.png)
+ In the diagram on page 74 (PDF)/98 (Book) (in Chapter 3), the directionality of arrows marked 1 and 2 should be reversed:
+ ![alt text](master/B10152_03_1.png)
